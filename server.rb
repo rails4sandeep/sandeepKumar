@@ -2,6 +2,6 @@ require 'sinatra'
 
 set :public_folder, 'site'
 
-get "/" do
+get '/' do
   redirect 'index.html'
 end
