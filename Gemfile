@@ -4,3 +4,5 @@ ruby '2.2.1'
 
 gem 'sinatra'
 gem 'thin'
+gem 'twitter'
+gem 'json'
