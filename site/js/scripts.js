@@ -34,6 +34,10 @@ $( "html").on('click','#twitter', function() {
     $('#main').load('../partials/twitter.html');
 });
 
+$( "html").on('click','#headphones', function() {
+    $('#main').load('../partials/headphones.html');
+});
+
 $( "html").on('click','#iss', function() {
     $('#main').load('../partials/iss.html');
 });
